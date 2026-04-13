@@ -1,0 +1,1 @@
+- Arrow functions behaves like a normal variable, it is not hoisted in javascript.
